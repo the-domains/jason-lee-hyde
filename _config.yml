@@ -1,4 +1,3 @@
-layout_spectrum: 0.7778872225899249
 typography_spectrum: 0.2914586993865669
 color:
   brandStrength: 0.2040884702000767
@@ -11,4 +10,6 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
+layout_spectrum: 0.7778872225899249
 name: Jason Lee Hyde
+title: Stuff
